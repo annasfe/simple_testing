@@ -14,7 +14,7 @@ test( "array with one element should return the same element", () => {
     expect(sumArray([10])).toBe(10);
 });
 
-test( "input is a string, should return undefined", () => {
+test( "input is a string, should return NaN", () => {
     expect(sumArray(["anna"])).toBe(NaN);
 });
 
