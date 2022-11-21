@@ -1,4 +1,4 @@
-const letterCount = require("../src/sum");
+const letterCount = require("../src/letterCount");
 
 describe("Testing function letterCount", () => {
   test("returns object from string by counting letters", () => {
