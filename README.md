@@ -3,7 +3,7 @@
 - Download code
 - Go to the downloaded folder and run "npm install" to install the dependencies
 - Go to the test folder and check what the tests describe before you build your code
-- Build the functionality so that the tests pass!
+- Build the functionality so that the tests pass! Remember you need to run "npm run test" to run the tests
 
 ## NOTE
 - start from sumArray which is easier, it should be a function that sums all array items and returns the number of the summary.
