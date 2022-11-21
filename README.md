@@ -1,7 +1,7 @@
 # Simple exercise to practise testing with JEST
 
 - Download code
-- Go to the downloaded folder and run "npm init"
+- Go to the downloaded folder and run "npm install" to install the dependencies
 - Go to the test folder and check what the tests describe before you build your code
 - Build the functionality so that the tests pass!
 
