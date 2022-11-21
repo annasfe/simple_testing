@@ -6,4 +6,4 @@
 - Build the functionality so that the tests pass! Remember you need to run "npm run test" to run the tests
 
 ## NOTE
-sumArray is a function that sums all array items and returns the number of the summary.
+sumArray is a function that sums all array items and returns the summary.
